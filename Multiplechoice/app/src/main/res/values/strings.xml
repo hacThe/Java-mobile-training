@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Multiple choice</string>
+    <string name="answerA">A.</string>
+    <string name="answerB">B.</string>
+    <string name="answerC">C.</string>
+    <string name="answerD">D.</string>
+
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="todo">TODO</string>
+    <string name="question">Question:</string>
+    <string name="score">0</string>
+</resources>

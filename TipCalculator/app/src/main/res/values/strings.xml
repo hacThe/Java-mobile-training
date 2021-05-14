@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tip_Caculator_19522252</string>
+    <string name="tiprate">Tip rate</string>
+    <string name="amount">Amount ($)</string>
+    <string name="tip">Tip</string>
+    <string name="total">Total</string>
+
+    <string name="tipamout">0</string>
+    <string name="totalamout">0</string>
+    <string name="rate">0%</string>
+    <string name="inputamount"></string>
+    <string name="dollar">$</string>
+    <string name="appname">Tip Caculator</string>
+    <string name="introduce">Type your money here!</string>
+
+</resources>

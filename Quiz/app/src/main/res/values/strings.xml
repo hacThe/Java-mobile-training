@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quick Quiz</string>
+    <string name="picture">Picture</string>
+    <string name="answerA">A.</string>
+    <string name="answerB">B</string>
+    <string name="answerC">C</string>
+    <string name="answerD">D</string>
+
+
+    <string name="question">Questions</string>
+    <string name="submit">Submit</string>
+    <string name="countQ">Câu hỏi 1:</string>
+    <string name="score">0</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+
+</resources>
